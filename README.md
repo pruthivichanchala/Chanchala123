@@ -13,3 +13,5 @@ The following are my main areas of interest as I complete my studies:
 * Being professional:* laying a solid basis for my future in technology.
 * Employability: * Acquiring practical experience via projects and challenges in programming.
 * Enterprise & Solving Problems:* Developing
+
+
