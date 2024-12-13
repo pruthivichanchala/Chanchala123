@@ -1,48 +1,15 @@
-# Welcome to Pruthivi Chanchala's Portfolio
+# Welcome to the Portfolio of Pruthivi Chanchala
 
-Hello! I'm *Pruthivi Chanchala, a passionate Computer Science student from **Sri Lanka*. Currently in my first year of the Computer Science program, I am eager to learn, grow, and build meaningful projects. I specialize in problem-solving and am focused on developing my skills in programming, teamwork, communication, and information management.
+Hi there! I'm *Pruthivi Chanchala, a dedicated student from **Sri Lanka* who studies computer science. I am excited to study, develop, and create worthwhile projects as I begin my first year of the computer science degree. My area of expertise is problem-solving, and I'm working hard to improve my communication, teamwork, programming, and information management abilities.
 
-## 👨‍💻 About Me
+## About Me 👨‍💻
 
-- *Name:* Pruthivi Chanchala
-- *Age:* 21 years old
-- *Location:* Sri Lanka
-- *Degree Program:* First-year Computer Science student
-- *Current Focus:* I am currently honing my skills in programming, employability, professionalism, and problem-solving. 
+Pruthivi Chanchala is a 21-year-old woman who lives in Sri Lanka.Degree Program: * First-year student majoring in computer sciencePresent Attention: * I'm currently improving my problem-solving, professionalism, employability, and programming abilities. 
 
-## 💡 What I'm Doing
+## 💡 My Activities
 
-As I continue my studies, I'm focusing on the following key areas:
+I'm concentrating on the following important aspects while I pursue my education:
 
-- *Professionalism:* Building a strong foundation for my career in technology.
-- *Employability:* Gaining real-world experience through projects and programming challenges.
-- *Enterprise & Problem-Solving:* Working on projects that solve real-world issues.
-- *Programming:* Practicing C++, Java, and HTML through different challenges and projects.
-- *Information Management, Assurance & Security:* Gaining insights into how information is managed, secured, and assured in different systems.
-
-## 🛠 Skills
-
-### *Programming Languages:*
-- C++
-- HTML
-- Java (Fundamentals)
-
-### *Core Skills:*
-- *Problem Solving:* Tackling complex problems with innovative solutions.
-- *Teamwork:* Collaborating effectively with others in a team environment.
-- *Communication:* Articulating ideas clearly and concisely, both in writing and speaking.
-- *Information Management & Security:* Understanding how to manage and secure information in systems.
-
-## 📫 How to Reach Me
-
-- LinkedIn: [Pruthivi Chanchala](https://www.linkedin.com/in/Pruthivi-Chanchala)
-- Email: [pruthivichanchala733@gmail.com](mailto:pruthivichanchala733@gmail.com)
-
----
-
-### 🌱 Future Goals
-
-As I continue my academic and professional journey, my goals include:
-- *Mastering Problem Solving* and becoming proficient in algorithms and data structures.
-- *Developing a deeper understanding of information security*.
-- *Contributing to open-source projects* and building real-world applications.
+* Professionalism:* Establishing a solid basis for my technical career.
+* Employability: Getting practical experience through programming challenges and projects.
+Working on *Enterprise & Problem-Solving:
